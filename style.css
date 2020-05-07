@@ -1,0 +1,113 @@
+body{
+  background-color: white;
+  color: black;
+}
+.navbar-toggler{
+  background-color: #45b29a;
+}
+.collapse{
+  background-color:#c5ded7;
+}
+.tbicon{
+  align-items: center;
+}
+.jumbotron{
+  background-image: url(./img/pantai2.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+.navbar-collapse{
+  background-color: #c5ded7;
+  margin-right: -14px;
+  margin-left: -14px;
+}
+.btn{
+  color: white;
+  background-color: #45b29a;
+}
+.btn:hover{
+  color: #c5ded7;
+  
+}
+.lazy{
+  width: 100%;
+}
+.mail{
+  justify-content: center;
+}
+input{
+  background-color: #45b29a;
+  color: white;
+  border-radius: 8px;
+  height: 40px;
+  width: 90px;
+  cursor: pointer;
+
+}
+h2{
+  color: #45b29a;
+  text-align: center;
+  margin-top: 50px;
+}
+.navbar-nav{
+  margin-right: 150px;
+}
+.navbar-brand{
+  color: #222;
+  margin-left: 50px;
+}
+.navbar-brand:hover{
+  color: #222;
+}
+.nav-item{
+  color: #45b29a;
+  font-size: large ;
+}
+.nav-item:hover{
+  color: #545454;
+}
+.navbar{
+  background-color: #c5ded7;
+}
+footer{
+  height: 130px;
+  background-color: #c5ded7;
+  padding: 20px;
+  color: #45b29a;
+  text-align: center;
+  font-weight: bold;
+}
+.work-shots{
+  text-align: center;
+}
+.card1{
+  background-color: #c5ded7;
+}
+.project{
+  height: 300px;
+}
+.about{
+  height: 50px;
+}
+.fab{
+  color: black;
+}
+.fab:hover{
+  color: #545454;
+}
+
+
+
+
+
+
+
+
+
+
+
+
